@@ -1,4 +1,4 @@
-## 第一次使用时，先克隆，在配置信息
+## 第一次使用
 
 1. 配置公钥  https://blog.csdn.net/plei_yue/article/details/78959525
 2. 在github创建仓库(文件夹)
