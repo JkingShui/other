@@ -37,3 +37,14 @@ git push origin feature-branch:feature-branch //推送本地的feature-branch(�
 > git commit -m "xxx"
 >
 > git push origin master
+
+
+
+### 删除分支和创建分支
+
+**git push origin --delete 分支名**
+
+**git checkout -b 分支名**
+
+**下一次push会自动创建远程分支并提交**
+
