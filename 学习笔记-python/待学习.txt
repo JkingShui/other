@@ -3,3 +3,6 @@ lambda表到时
 python coodbook
 python高级编程
 typora
+ORM
+pdb原理
+覆盖率
