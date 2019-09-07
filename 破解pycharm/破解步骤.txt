@@ -1,0 +1,12 @@
+将Jar包放到pychar的bin目录下，例如
+PyCharm 2019.1.3\bin
+
+修改pycharm64.exe.vmoptions代码，
+如果有pycharm.exe.vmoptions文件，也一并修改
+
+在pycharm64.exe.vmoptions中添加一句：
+-javaagent:D:\Pycharm\bin\JetbrainsIdesCrack-4.2-release-sha1-3323d5d0b82e716609808090d3dc7cb3198b8c4b.jar
+
+注意，这里的格式为：
+ -javaagent:+ jar 包的目录 + jar 包文件名
+根据自己的安装目录
