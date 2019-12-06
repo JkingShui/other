@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="773e178d-bbc0-4f71-8e9d-e6b85cc4e4f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/test_pools.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_pools.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_pools.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,17 +11,104 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/test_pools.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/test/test_pools.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="567">
+                  <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+                  <folding>
+                    <element signature="e#419#443#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/pools.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="607">
+                  <caret line="92" column="25" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="25" />
+                  <folding>
+                    <element signature="e#0#37#0" expanded="true" />
+                    <element signature="e#184#1739#1" />
+                    <element signature="e#1832#2261#1" />
+                    <element signature="e#2704#2829#1" />
+                    <element signature="e#3278#3576#1" />
+                    <element signature="e#4276#4692#0" />
+                    <element signature="e#4276#4659#1" />
+                    <element signature="e#4722#4940#0" />
+                    <element signature="e#4973#5113#0" />
+                    <element signature="e#5145#5956#1" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://C:/Python27/Lib/contextlib.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="541">
+                  <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+                  <folding>
+                    <element signature="e#762#1914#0" />
+                    <element signature="e#1947#2429#1" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/pools.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="198">
+                  <caret line="93" selection-start-line="93" selection-end-line="93" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/queue.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="258">
+                  <caret line="302" column="28" selection-start-line="302" selection-start-column="24" selection-end-line="302" selection-end-column="28" />
+                  <folding>
+                    <element signature="e#10649#11184#1" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/pools.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="472">
+                  <caret line="130" column="27" selection-start-line="130" selection-start-column="17" selection-end-line="130" selection-end-column="27" />
+                  <folding>
+                    <element signature="e#0#37#0" expanded="true" />
+                    <element signature="e#184#1739#1" />
+                    <element signature="e#1832#2261#1" />
+                    <element signature="e#2704#2829#1" />
+                    <element signature="e#3278#3576#1" />
+                    <element signature="e#4276#4692#0" />
+                    <element signature="e#4276#4659#1" />
+                    <element signature="e#4722#4940#0" />
+                    <element signature="e#4973#5113#0" />
+                    <element signature="e#5145#5956#1" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,7 +134,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="872" />
     <option name="y" value="51" />
     <option name="width" value="956" />
@@ -70,7 +156,20 @@
             <path>
               <item name="eventlet_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="eventlet_test" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eventlet_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eventlet_test" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="eventlet-0.25.1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eventlet_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eventlet_test" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="eventlet-0.25.1" type="462c0819:PsiDirectoryNode" />
+              <item name="eventlet" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -165,15 +264,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575599317783</updated>
-      <workItem from="1575599360750" duration="6229000" />
+      <workItem from="1575599360750" duration="10292000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6229000" />
+    <option name="totallyTimeSpent" value="10292000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.13166311" />
@@ -181,7 +281,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" weight="0.32814237" />
       <window_info anchor="bottom" id="Python Console" weight="0.32814237" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.22803114" />
+      <window_info anchor="bottom" id="Terminal" weight="0.22803114" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -196,30 +296,14 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
-      <window_info anchor="right" id="Structure" order="6" visible="true" weight="0.25" />
+      <window_info anchor="right" id="Structure" order="6" weight="0.31769723" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/pools.py</url>
-          <line>92</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test/test_pools.py</url>
-          <line>37</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/eventlet_test$test_pools.coverage" NAME="test_pools Coverage Results" MODIFIED="1575613235383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/eventlet_test$test_pools.coverage" NAME="test_pools Coverage Results" MODIFIED="1575619955775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/eventlet_test$test_event.coverage" NAME="test_event Coverage Results" MODIFIED="1575603661382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
   </component>
   <component name="editorHistoryManager">
@@ -268,22 +352,6 @@
           <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           <folding>
             <element signature="e#273#299#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/pools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-            <element signature="e#184#1739#1" />
-            <element signature="e#1832#2261#1" />
-            <element signature="e#2704#2829#1" />
-            <element signature="e#2993#3145#0" />
-            <element signature="e#4276#4659#1" />
-            <element signature="e#5145#5956#1" />
           </folding>
         </state>
       </provider>
@@ -344,13 +412,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/queue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="145" column="25" lean-forward="true" selection-start-line="145" selection-start-column="25" selection-end-line="145" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Python27/Lib/inspect.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -360,15 +421,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/pools.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="78" column="8" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
+        <state relative-caret-position="198">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2/__builtin__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/contextlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding>
+            <element signature="e#762#1914#0" />
+            <element signature="e#1947#2429#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="302" column="28" selection-start-line="302" selection-start-column="24" selection-end-line="302" selection-end-column="28" />
+          <folding>
+            <element signature="e#10649#11184#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/pools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="92" column="25" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+            <element signature="e#184#1739#1" />
+            <element signature="e#1832#2261#1" />
+            <element signature="e#2704#2829#1" />
+            <element signature="e#3278#3576#1" />
+            <element signature="e#4276#4692#0" />
+            <element signature="e#4276#4659#1" />
+            <element signature="e#4722#4940#0" />
+            <element signature="e#4973#5113#0" />
+            <element signature="e#5145#5956#1" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/test_pools.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        <state relative-caret-position="567">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding>
+            <element signature="e#419#443#0" />
+          </folding>
         </state>
       </provider>
     </entry>
