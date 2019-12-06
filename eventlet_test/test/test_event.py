@@ -5,6 +5,9 @@ u"""
 3.ready判断一个事件是否已经send， 已经send返回True， 否则返回False
 4.send_exception(*args) 发送一个异常，  例如：evt.send_exception(RuntimeError())
 5.reset：一个事件send之后，不能再次send，但是reset之后可以发送
+
+TODO :
+1. 生产者消费者模型   socket
 """
 from eventlet import event
 import eventlet
