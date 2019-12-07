@@ -1,3 +1,4 @@
+# coding:utf-8
 import collections
 
 import eventlet
@@ -16,6 +17,7 @@ class Semaphore(object):
 
     It is a context manager, and thus can be used in a with block::
 
+    · 使用with的方式
       sem = Semaphore(2)
       with sem:
         do_some_stuff()
@@ -24,6 +26,7 @@ class Semaphore(object):
 
     It is possible to limit acquire time::
 
+    · 手动获取和释放
       sem = Semaphore()
       ok = sem.acquire(timeout=0.1)
       # True if acquired, False if timed out.
@@ -85,21 +88,31 @@ class Semaphore(object):
         """
         if timeout == -1:
             timeout = None
+
+        # timeout 不为None时，必须大于0
         if timeout is not None and timeout < 0:
             raise ValueError("timeout value must be strictly positive")
+
+        # 非阻塞 不能设置 timeout
         if not blocking:
             if timeout is not None:
                 raise ValueError("can't specify timeout for non-blocking acquire")
             timeout = 0
+
+        # 非阻塞 且 没有信号量时 return False
+        # 当 设置为非阻塞式，且目前信号量计数为0时， 直接返回False
         if not blocking and self.locked():
             return False
 
         current_thread = eventlet.getcurrent()
 
+        # 如果 没有信号量， 或者 有等待的协程
         if self.counter <= 0 or self._waiters:
+            # 先放入等待队列
             if current_thread not in self._waiters:
                 self._waiters.append(current_thread)
             try:
+                # 设置超时时间，就在超时时间内获取尝试被调度
                 if timeout is not None:
                     ok = False
                     with eventlet.Timeout(timeout, False):
@@ -108,6 +121,8 @@ class Semaphore(object):
                         ok = True
                     if not ok:
                         return False
+
+                # 没有设置超时时间就一直尝试被调度
                 else:
                     # If someone else is already in this wait loop, give them
                     # a chance to get out.
@@ -122,6 +137,7 @@ class Semaphore(object):
                     # Fine if its already been dropped.
                     pass
 
+        # 获取信号量成功，计数减一
         self.counter -= 1
         return True
 
@@ -136,6 +152,7 @@ class Semaphore(object):
         The *blocking* argument is for consistency with CappedSemaphore and is
         ignored
         """
+        # 协程释放信号量，计数+1
         self.counter += 1
         if self._waiters:
             hubs.get_hub().schedule_call_global(0, self._do_acquire)
