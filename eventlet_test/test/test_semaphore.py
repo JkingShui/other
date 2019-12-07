@@ -23,12 +23,12 @@ u""" eventlet.semaphore.Semaphore 信号量
                             未设置超时时间则一直阻塞式获取
 
         2) release 释放信号量
-            ·信号量的技术会+1
+            ·信号量的计数会+1
             ·如果等待队列有协程，就设置一个固定时间执行def _do_acquire(self)
               def _do_acquire(self)这个函数会将等待的协程拿出等待队列，然后尝试被调度
 
 
-    如何使用可以看看greenool
+    如何使用可以看看greenpool
 
 """
 

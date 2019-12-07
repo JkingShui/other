@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="773e178d-bbc0-4f71-8e9d-e6b85cc4e4f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/semaphore.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/semaphore.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/semaphore.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_semaphore.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_semaphore.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_semaphore.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.63567364">
+    <splitter split-orientation="horizontal" split-proportion="0.46695095">
       <split-first>
         <leaf>
           <file pinned="false" current-in-tab="false">
@@ -55,8 +54,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/test/test_semaphore.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="648">
-                  <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+                <state relative-caret-position="349">
+                  <caret line="25" selection-start-line="25" selection-end-line="26" />
                 </state>
               </provider>
             </entry>
@@ -68,10 +67,9 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/semaphore.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="479">
-                  <caret line="165" lean-forward="true" selection-start-line="165" selection-end-line="165" />
+                <state relative-caret-position="27">
+                  <caret line="67" column="51" lean-forward="true" selection-start-line="67" selection-start-column="51" selection-end-line="67" selection-end-column="51" />
                   <folding>
-                    <element signature="e#1911#4721#0" />
                     <element signature="e#1911#2948#1" />
                   </folding>
                 </state>
@@ -342,19 +340,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575599317783</updated>
-      <workItem from="1575599360750" duration="22915000" />
+      <workItem from="1575599360750" duration="23273000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22915000" />
+    <option name="totallyTimeSpent" value="23273000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="994" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15724947" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.15724947" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" weight="0.32735962" />
@@ -783,6 +781,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/greenpool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/semaphore.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
@@ -794,20 +802,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/greenpool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="27" column="42" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/test_semaphore.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        <state relative-caret-position="349">
+          <caret line="25" selection-start-line="25" selection-end-line="26" />
         </state>
       </provider>
     </entry>
