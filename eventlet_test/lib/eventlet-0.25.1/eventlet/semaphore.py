@@ -155,6 +155,7 @@ class Semaphore(object):
         # 协程释放信号量，计数+1
         self.counter += 1
         if self._waiters:
+            # 将self._do_acquire 放到待执行的列表，固定时间点会执行
             hubs.get_hub().schedule_call_global(0, self._do_acquire)
         return True
 
