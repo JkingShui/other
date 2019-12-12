@@ -1,3 +1,5 @@
+# coding=utf-8
+
 from collections import deque
 import sys
 
@@ -177,7 +179,10 @@ class GreenThread(greenlet.greenlet):
         result is a normal return value, :meth:`wait` returns it.  If it raised
         an exception, :meth:`wait` will raise the same exception (though the
         stack trace will unavoidably contain some frames from within the
-        greenthread module)."""
+        greenthread module).
+
+        等待事件send， 返回send结果，
+        """
         return self._exit_event.wait()
 
     def link(self, func, *curried_args, **curried_kwargs):
@@ -196,6 +201,9 @@ class GreenThread(greenlet.greenlet):
         the GreenThread, so it is possible to interfere with other linked
         functions by doing things like switching explicitly to another
         greenthread.
+
+        link 实际就是将用户函数与greenthread
+        self._exit_funcs.append((func, curried_args, curried_kwargs))
         """
         if self._exit_funcs is None:
             self._exit_funcs = deque()
@@ -207,6 +215,8 @@ class GreenThread(greenlet.greenlet):
         """ remove linked function set by :meth:`link`
 
         Remove successfully return True, otherwise False
+
+        unlink就是将 _exit_funcs 的func删掉
         """
         if not self._exit_funcs:
             return False

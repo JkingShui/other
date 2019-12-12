@@ -4,7 +4,100 @@
     <bookmark url="file://$PROJECT_DIR$/test/test_semaphore.py" line="27" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="773e178d-bbc0-4f71-8e9d-e6b85cc4e4f4" name="Default Changelist" comment="" />
+    <list default="true" id="773e178d-bbc0-4f71-8e9d-e6b85cc4e4f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test/test_greenlet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_greenthread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/.coveragerc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/.idea/oslo.i18n-3.25.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/.mailmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/.stestr.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/.zuul.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/AUTHORS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/CONTRIBUTING.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/ChangeLog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/HACKING.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/README.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/babel.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/doc/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/doc/source/conf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/doc/source/contributor/contributing.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/doc/source/contributor/index.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/doc/source/contributor/policy.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/doc/source/index.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/doc/source/reference/index.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/doc/source/user/guidelines.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/doc/source/user/history.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/doc/source/user/index.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/doc/source/user/usage.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/lower-constraints.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo.i18n.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo.i18n.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo.i18n.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo.i18n.egg-info/not-zip-safe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo.i18n.egg-info/pbr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo.i18n.egg-info/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo.i18n.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/_factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/_gettextutils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/_i18n.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/_lazy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/_locale.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/_message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/_translate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/fixture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/locale/de/LC_MESSAGES/oslo_i18n.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/locale/en_GB/LC_MESSAGES/oslo_i18n.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/locale/es/LC_MESSAGES/oslo_i18n.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/locale/fr/LC_MESSAGES/oslo_i18n.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/locale/it/LC_MESSAGES/oslo_i18n.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/locale/ja/LC_MESSAGES/oslo_i18n.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/locale/ko_KR/LC_MESSAGES/oslo_i18n.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/locale/pl_PL/LC_MESSAGES/oslo_i18n.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/locale/pt/LC_MESSAGES/oslo_i18n.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/locale/zh_CN/LC_MESSAGES/oslo_i18n.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/tests/fakes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/tests/test_factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/tests/test_fixture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/tests/test_gettextutils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/tests/test_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/tests/test_lazy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/tests/test_locale_dir_variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/tests/test_logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/tests/test_message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/tests/test_public_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/tests/test_translate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/oslo_i18n/tests/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/releasenotes/notes/add-reno-996dd44974d53238.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/releasenotes/source/_static/.placeholder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/releasenotes/source/_templates/.placeholder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/releasenotes/source/conf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/releasenotes/source/index.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/releasenotes/source/locale/ko_KR/LC_MESSAGES/releasenotes.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/releasenotes/source/ocata.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/releasenotes/source/pike.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/releasenotes/source/queens.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/releasenotes/source/rocky.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/releasenotes/source/stein.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/releasenotes/source/train.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/releasenotes/source/unreleased.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/setup.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/test-requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0/tox.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/greenthread.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/greenthread.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,97 +105,98 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/semaphore.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="59" column="27" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="27" />
-              <folding>
-                <element signature="e#109#815#1" />
-                <element signature="e#1941#4794#0" />
-                <element signature="e#1941#2978#1" />
-                <element signature="e#4891#5198#1" />
-                <element signature="e#5449#5560#0" />
-                <element signature="e#5669#6267#1" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/greenpool.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="245" column="20" selection-start-line="245" selection-start-column="13" selection-end-line="245" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#16#0" expanded="true" />
-                <element signature="e#838#1289#1" />
-                <element signature="e#1913#2441#1" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/greenthread.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="162" column="30" selection-start-line="162" selection-start-column="30" selection-end-line="162" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-                <element signature="e#1887#2325#1" />
-                <element signature="e#2427#3305#1" />
-                <element signature="e#3507#4324#1" />
-                <element signature="e#7136#7865#1" />
-                <element signature="e#8153#8269#1" />
-                <element signature="e#9286#9509#0" />
-                <element signature="e#10136#10632#1" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/support/greenlets.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/support/greenlets.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="28" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#24#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1679367624/greenlet.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.57058436">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/test/test_greenlet.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="463">
+                  <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+                  <folding>
+                    <element signature="e#16#45#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/greenthread.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="586">
+                  <caret line="157" column="4" selection-start-line="157" selection-start-column="4" selection-end-line="157" selection-end-column="4" />
+                  <folding>
+                    <element signature="e#7190#8025#1" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/test/test_greenthread.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="486">
+                  <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+                  <folding>
+                    <element signature="e#183#215#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/pools.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="594">
+                  <caret line="71" selection-start-line="71" selection-end-line="74" selection-end-column="33" />
+                  <folding>
+                    <element signature="e#0#37#0" expanded="true" />
+                    <element signature="e#184#1739#1" />
+                    <element signature="e#1832#2261#1" />
+                    <element signature="e#2704#2829#1" />
+                    <element signature="e#3278#3576#1" />
+                    <element signature="e#4276#4692#0" />
+                    <element signature="e#4276#4659#1" />
+                    <element signature="e#4722#4940#0" />
+                    <element signature="e#4973#5113#0" />
+                    <element signature="e#5145#5956#1" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1679367624/greenlet.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1485">
+                  <caret line="99" column="39" selection-start-line="99" selection-start-column="33" selection-end-line="99" selection-end-column="39" />
+                  <folding>
+                    <element signature="e#789#1031#1" />
+                    <element signature="e#1369#2171#1" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/greenthread.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="273">
+                  <caret line="160" column="32" selection-start-line="160" selection-start-column="12" selection-end-line="160" selection-end-column="32" />
+                  <folding>
+                    <element signature="e#7190#8025#1" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -123,12 +217,26 @@
       <find>Semaphore</find>
       <find>get</find>
       <find>PyType_GenericAlloc</find>
-      <find>greenlet</find>
-      <find>schedule_call_global</find>
-      <find>def schedule_call_global</find>
       <find>self.tpl</find>
       <find>blocking</find>
       <find>self.counter</find>
+      <find>hub</find>
+      <find>schedule_call_global</find>
+      <find>def switch</find>
+      <find>stopping</find>
+      <find>self._obsolete</find>
+      <find>mark_as_reopened</find>
+      <find>close_one</find>
+      <find>timer_canceled</find>
+      <find>def run</find>
+      <find>clock</find>
+      <find>get_hub</find>
+      <find>fire_timers</find>
+      <find>def schedule_call_global</find>
+      <find>greenlet</find>
+      <find>parent</find>
+      <find>def getc</find>
+      <find>cb</find>
     </findStrings>
     <dirStrings>
       <dir>D:\other\eventlet_test\lib\eventlet-0.25.1\eventlet\hubs</dir>
@@ -143,24 +251,29 @@
         <option value="$PROJECT_DIR$/test/test_event.py" />
         <option value="$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/pools.py" />
         <option value="$PROJECT_DIR$/test/test_pools.py" />
-        <option value="$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/hubs/__init__.py" />
         <option value="$PROJECT_DIR$/test/test.py" />
         <option value="$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/__init__.py" />
         <option value="$PROJECT_DIR$/test/semaphore.py" />
-        <option value="$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/hubs/hub.py" />
         <option value="$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/semaphore.py" />
         <option value="$PROJECT_DIR$/test/test_semaphore.py" />
+        <option value="$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/hubs/selects.py" />
+        <option value="$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/hubs/hub.py" />
+        <option value="$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/hubs/__init__.py" />
+        <option value="$PROJECT_DIR$/test/test_greenlet.py" />
+        <option value="$PROJECT_DIR$/test/test_greenthread.py" />
         <option value="$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/greenthread.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="872" />
     <option name="y" value="51" />
     <option name="width" value="956" />
     <option name="height" value="714" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -181,7 +294,47 @@
             <path>
               <item name="eventlet_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="eventlet_test" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="eventlet-0.25.1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eventlet_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eventlet_test" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="eventlet-0.25.1" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eventlet_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eventlet_test" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="eventlet-0.25.1" type="462c0819:PsiDirectoryNode" />
+              <item name="eventlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eventlet_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eventlet_test" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="eventlet-0.25.1" type="462c0819:PsiDirectoryNode" />
+              <item name="eventlet" type="462c0819:PsiDirectoryNode" />
+              <item name="hubs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eventlet_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eventlet_test" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="eventlet-0.25.1" type="462c0819:PsiDirectoryNode" />
+              <item name="eventlet" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eventlet_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eventlet_test" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eventlet_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -194,17 +347,17 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../oslo公共库学习/oslo_i18n/oslo.i18n-3.25.0" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\other\eventlet_test\lib\eventlet-0.25.1\eventlet" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\other\eventlet_test\test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\other\eventlet_test\lib\eventlet-0.25.1\eventlet" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -219,7 +372,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_pools">
+  <component name="RunManager" selected="Python.test_greenlet">
+    <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="eventlet_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib/greenlet-0.4.15" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/greenlet-0.4.15/setup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="eventlet_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -264,6 +439,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_greenlet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="eventlet_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test_greenlet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test_pools" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="eventlet_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -288,6 +485,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_greenlet" />
+        <item itemvalue="Python.setup" />
         <item itemvalue="Python.test_pools" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.test_event" />
@@ -305,21 +504,23 @@
       <option name="presentableId" value="Default" />
       <updated>1575599317783</updated>
       <workItem from="1575599360750" duration="23273000" />
+      <workItem from="1576029617514" duration="5767000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25315000" />
+    <option name="totallyTimeSpent" value="39156000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="994" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1924307" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1881663" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32855436" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39904422" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -335,7 +536,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
-      <window_info anchor="right" id="Structure" order="6" visible="true" weight="0.14765458" />
+      <window_info anchor="right" id="Structure" order="6" weight="0.16791044" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,67 +545,11 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/eventlet_test$test_pools.coverage" NAME="test_pools Coverage Results" MODIFIED="1575882175573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/eventlet_test$test_event.coverage" NAME="test_event Coverage Results" MODIFIED="1575603661382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/eventlet_test$setup.coverage" NAME="setup Coverage Results" MODIFIED="1575884677382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/greenlet-0.4.15" />
+    <SUITE FILE_PATH="coverage/eventlet_test$test_greenlet.coverage" NAME="test_greenlet Coverage Results" MODIFIED="1576132680345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/eventlet_test$test.coverage" NAME="test Coverage Results" MODIFIED="1575680647287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/hubs/selects.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/hubs/hub.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="134" selection-start-line="134" selection-end-line="134" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/inspect.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/pools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="93" selection-start-line="93" selection-end-line="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/contextlib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-          <folding>
-            <element signature="e#762#1914#0" />
-            <element signature="e#1947#2429#1" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/pools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="69" column="32" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-            <element signature="e#184#1739#1" />
-            <element signature="e#1832#2261#1" />
-            <element signature="e#2704#2829#1" />
-            <element signature="e#3278#3576#1" />
-            <element signature="e#4276#4692#0" />
-            <element signature="e#4276#4659#1" />
-            <element signature="e#4722#4940#0" />
-            <element signature="e#4973#5113#0" />
-            <element signature="e#5145#5956#1" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/timeout.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -462,16 +607,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/hubs/epolls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/hubs/pyevent.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -489,13 +624,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/hubs/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1679367624/sys.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -509,18 +637,6 @@
           <caret line="173" column="4" selection-start-line="173" selection-start-column="4" selection-end-line="173" selection-end-column="4" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/hubs/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-            <element signature="e#603#951#1" />
-            <element signature="e#1157#2069#1" />
           </folding>
         </state>
       </provider>
@@ -544,16 +660,6 @@
         <state relative-caret-position="-162" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/patcher.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1053">
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-            <element signature="e#7714#8027#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/build/lib/eventlet/support/stacklesss.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -569,52 +675,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/greenlet.py" />
-    <entry file="file://$PROJECT_DIR$/lib/greenlet-0.4.15/doc/greenlet.txt" />
-    <entry file="file://$PROJECT_DIR$/lib/greenlet-0.4.15/greenlet.c" />
-    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/hubs/poll.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/hubs/timer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1323">
-          <caret line="53" column="16" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/hubs/hub.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9882">
-          <caret line="393" column="33" selection-start-line="393" selection-start-column="33" selection-end-line="393" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-            <element signature="e#916#1572#1" />
-            <element signature="e#4503#5171#1" />
-            <element signature="e#15562#16003#1" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/hubs/selects.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -694,13 +758,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/test_pools.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-135">
@@ -742,43 +799,197 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/greenthread.py">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/support/greenlets.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="162" column="30" selection-start-line="162" selection-start-column="30" selection-end-line="162" selection-end-column="30" />
+        <state relative-caret-position="135">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/greenlet-0.4.15/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1697">
+          <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/greenlet-0.4.15/doc/greenlet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3159" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/greenlet-0.4.15/greenlet.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/hubs/timer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/hubs/epolls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <element signature="e#1887#2325#1" />
-            <element signature="e#2427#3305#1" />
-            <element signature="e#3507#4324#1" />
-            <element signature="e#7136#7865#1" />
-            <element signature="e#8153#8269#1" />
-            <element signature="e#9286#9509#0" />
-            <element signature="e#10136#10632#1" />
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/hubs/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="107" column="26" selection-start-line="107" selection-start-column="26" selection-end-line="107" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1679367624/select.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/hubs/selects.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="59" column="18" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/patcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="198" column="54" lean-forward="true" selection-start-line="198" selection-start-column="54" selection-end-line="198" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/hubs/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#603#951#1" />
+            <element signature="e#1157#2069#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/hubs/hub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="428" column="46" selection-start-line="428" selection-start-column="44" selection-end-line="428" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#916#1572#1" />
+            <element signature="e#4503#5171#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/support/greenlets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/hubs/poll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/hubs/timer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+            <element signature="e#359#976#0" />
+            <element signature="e#359#765#1" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1679367624/greenlet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/support/greenlets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/support/greenlets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="28" />
+        <state relative-caret-position="1485">
+          <caret line="99" column="39" selection-start-line="99" selection-start-column="33" selection-end-line="99" selection-end-column="39" />
           <folding>
-            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#789#1031#1" />
+            <element signature="e#1369#2171#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_greenlet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+          <folding>
+            <element signature="e#16#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_greenthread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+          <folding>
+            <element signature="e#183#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/pools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="71" selection-start-line="71" selection-end-line="74" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+            <element signature="e#184#1739#1" />
+            <element signature="e#1832#2261#1" />
+            <element signature="e#2704#2829#1" />
+            <element signature="e#3278#3576#1" />
+            <element signature="e#4276#4692#0" />
+            <element signature="e#4276#4659#1" />
+            <element signature="e#4722#4940#0" />
+            <element signature="e#4973#5113#0" />
+            <element signature="e#5145#5956#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/eventlet-0.25.1/eventlet/greenthread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="157" column="4" selection-start-line="157" selection-start-column="4" selection-end-line="157" selection-end-column="4" />
+          <folding>
+            <element signature="e#7190#8025#1" />
           </folding>
         </state>
       </provider>
