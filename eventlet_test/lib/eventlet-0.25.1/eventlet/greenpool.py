@@ -1,3 +1,4 @@
+# coding:utf-8
 import traceback
 
 import eventlet
@@ -26,6 +27,8 @@ class GreenPool(object):
         self.size = size
         self.coroutines_running = set()
         self.sem = eventlet.Semaphore(size)
+
+        # 提供waitall机制
         self.no_coros_running = eventlet.Event()
 
     def resize(self, new_size):
@@ -79,6 +82,8 @@ class GreenPool(object):
             if not self.coroutines_running:
                 self.no_coros_running = eventlet.Event()
             self.coroutines_running.add(gt)
+
+            # 当gt退出时，执行_spawn_done，此函数会释放信号量
             gt.link(self._spawn_done)
         return gt
 
